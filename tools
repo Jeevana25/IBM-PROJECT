@@ -1,0 +1,5 @@
+Python 3.10+
+Google Gemini API
+google-generativeai (Python package)
+Flask or Streamlit (for web interface)
+HTML & CSS (for frontend styling - if using Flask)
